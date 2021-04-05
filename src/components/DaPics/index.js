@@ -18,37 +18,37 @@ import {
 
 const images=[
     {
-      src: 'http://ec2-18-237-48-102.us-west-2.compute.amazonaws.com/img/portfolio/gptalk.jpg',
+      src: require('../../images/gptalk.jpg').default,
       lightboxTitle: 'Gracious Professionalism',
       lightboxCaption: 'writing about gracious professionalism'
     },
     {
-      src: 'http://ec2-18-237-48-102.us-west-2.compute.amazonaws.com/img/portfolio/nw1.jpg',
+      src: require('../../images/nw1.jpg').default,
       lightboxTitle: 'Nicki Weiland',
       lightboxCaption: 'working on the chassis'
     },
     {
-      src: 'http://ec2-18-237-48-102.us-west-2.compute.amazonaws.com/img/portfolio/kk1.jpg',
+      src: require('../../images/kk1.jpg').default,
       lightboxTitle: 'Krishna Katakaota',
       lightboxCaption: 'working on a motor'
     },
     {
-      src: 'http://ec2-18-237-48-102.us-west-2.compute.amazonaws.com/img/portfolio/ss1.jpg',
+      src: require('../../images/ss1.jpg').default,
       lightboxTitle: 'Saanvi Patel',
       lightboxCaption: 'working on the team website'
     },
     {
-      src: 'http://ec2-18-237-48-102.us-west-2.compute.amazonaws.com/img/portfolio/ra1.jpg',
+      src: require('../../images/ra1.jpg').default,
       lightboxTitle: 'Rahul Anantuni',
       lightboxCaption: 'working on the playfield'
     },
     {
-      src: 'http://ec2-18-237-48-102.us-west-2.compute.amazonaws.com/img/portfolio/nw2.jpg',
+      src: require('../../images/nw2.jpg').default,
       lightboxTitle: 'Nicki Weiland',
       lightboxCaption: 'holding the chassis'
     },
     {
-      src: 'http://ec2-18-237-48-102.us-west-2.compute.amazonaws.com/img/portfolio/mc1.jpg',
+      src: require('../../images/mc1.jpg').default,
       lightboxTitle: 'Michaela Caldwell',
       lightboxCaption: 'standing by the playfield'
     }
